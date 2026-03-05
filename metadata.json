@@ -1,0 +1,5 @@
+{
+  "name": "EcoBalance: Roguelike Simulator",
+  "description": "A roguelike ecosystem simulation game where you must balance species and environments to survive eras.",
+  "requestFramePermissions": []
+}
